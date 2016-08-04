@@ -20,3 +20,6 @@ navigation:
   - name: About Moi
     url: 'http://www.laguisma.com'
     type: external
+  - name: Slack
+    url: 'http://slack.supergui.co.uk'
+    type: external
