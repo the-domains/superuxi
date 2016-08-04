@@ -1,0 +1,14 @@
+layout_spectrum: 0.9177137073129416
+typography_spectrum: 0.47524345526471734
+color:
+  brandStrength: 0.7392588790971786
+  lightness: 0.9491037777625024
+  saturation: 0.4165078471414745
+  rhythmicContrast: 0.8265419888775796
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: SuperUXi
