@@ -6,9 +6,13 @@ color:
   saturation: 0.4165078471414745
   rhythmicContrast: 0.8265419888775796
   brandColors:
-    - '#962D3E'
-    - '#343642'
-    - '#979C9C'
-    - '#F2EBC7'
-    - '#348899'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: SuperUXi
+author:
+  name: Leigh Laguisma
+  email: leigh@supergui.co.uk
+  url: slack.supergui.co.uk
